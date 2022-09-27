@@ -1,29 +1,29 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/Forrest933">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
 <h1 align="center"> Miku Nakano (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Forrest933 to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
+  <a href="https://github.com/Forrest933/Miku-MD/fork">
+    <img src="https://img.shields.io/github/forks/Forrest933/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
+  <a href="https://github.com/Forrest933/Miku-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Forrest933/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+  <a href="https://github.com/Forrest933/Miku-MD">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Forrest933/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+<a href="https://github.com/Forrest933">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/Forrest933/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
       
@@ -49,7 +49,7 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards Forrest933
 ```
 </br>
 
@@ -64,11 +64,11 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 #### ✧ `Fork` this repo.
 
 #### ✧ Click this scan button below and scan the given QR within 15 seconds from your WhatsApp. 
-<a href="https://miku-qr--fantox001.repl.co/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<a href="https://miku-qr--forrest.repl.co/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 #### Or, Scan indirectly from my `repl.it`
 
-#### <a href="https://replit.com/@FantoX001/Miku-QR?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
+#### <a href="https://replit.com/@Forrest933/Miku-QR?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
 #### ✧ Download the `session.json` file and upload it on the hompage of your `Fork`.
 #### ✧ Go to your `Heroku` account.
 #### ✧ Create a `random app` in Heroku with any name.
@@ -100,7 +100,7 @@ heroku/nodejs
 
 ## ✧✧✧ CMD Deployment Method
 ```
-git clone https://github.com/FantoX001/Miku-MD.git
+git clone https://github.com/Forrest933/Miku-MD.git
 cd Miku-MD
 npm i
 npm start
@@ -127,7 +127,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/FantoX001/Miku-MD
+git clone https://github.com/Forrest933/Miku-MD
 cd Miku-MD
 npm i
 npm start
@@ -142,8 +142,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ✧✧✧ License and recode Permission:
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
-- And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to show some appreciation.
+- And this project comes under [`MIT`](https://github.com/Forrest933/Miku-MD/blob/main/LICENSE.md) lincense.
+- Please at least [`Follow`](https://github.com/Forrest933/#follow) me on GitHub to show some appreciation.
    
    
 ## ✧ Reminder:
@@ -159,7 +159,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/Forrest933/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
